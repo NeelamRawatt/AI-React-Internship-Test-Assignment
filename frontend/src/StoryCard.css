@@ -1,0 +1,108 @@
+
+
+.story-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  background-color: #26577C;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+  color: #FFFFFF;
+  
+
+}
+
+.user-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 8px;
+  object-fit: cover;
+  color: #FFFFFF;
+}
+
+.username {
+  font-weight: bold;
+  color: #FFFFFF;
+
+}
+
+.post-text {
+  margin-bottom: 16px;
+  color: #FFFFFF;
+}
+
+.upvote-container {
+  display: flex;
+  align-items: center;
+}
+
+.upvote-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  /* font-size: 24px; */
+ 
+}
+
+.save-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 30px;
+  height: 50px;
+ 
+}
+
+.share-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  margin-right: 8px;
+}
+
+.upvotes {
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-top: -30px;
+}
+
+.dislikeIcon{
+width: 40px;
+height:40px;
+margin-left: -10px;
+
+}
+.likeIcon{
+width: 40px;
+height:40px;
+margin-left: -10px;
+
+}
+
+.saveIcon{
+width: 45px;
+height:38px;
+margin-left:-20px; 
+margin-top: -10px;
+cursor: pointer;
+
+}
+
+.shareIcon{
+width: 25px;
+height:22px;
+margin-left: -30px; 
+margin-top: -10px;
+cursor: pointer;
+
+
+
+}
